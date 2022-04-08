@@ -60,7 +60,7 @@ plt.ylabel("loss")
 ```
 
 ## Output:
-![linear regression using gradient descent](suchi.png)
+![linear regression using gradient descent](ml-4.png)
 
 
 ## Result:
